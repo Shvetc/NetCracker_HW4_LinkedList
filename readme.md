@@ -1,3 +1,24 @@
+# NetCracker_HW4: Java collections
+
+ 1. Implement the linked list shown in the UML diagram below.
+        
+ ![image](https://user-images.githubusercontent.com/101325108/180993560-6f78ada6-3eb3-40fa-9329-7a905bd96bd3.png)
+ 
+
+ 
+
+ 
+  2. Make a comparative analysis of the performance of the main Java collections.
+ 
+        
+Write a test class that measures the execution time of basic operations – adding, inserting, deleting elements
+
+ a. Compare the performance of ArrayList and LinkedList for basic operations
+
+ b. Compare the performance of HashSet, LinkedHashSet, TreeSet for basic operations
+
+ c. Compare the performance of HashMap, LinkedHashMap, TreeMap
+ 
 # Result of the comparison perfomance for collections
 
 ### LinkedList and ArrayList
